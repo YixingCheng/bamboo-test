@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "suites": 5,
+    "tests": 0,
+    "passes": 0,
+    "pending": 0,
+    "failures": 5,
+    "start": "2018-06-04T19:13:31.383Z",
+    "end": "2018-06-04T19:16:50.481Z",
+    "duration": 199098
+  },
+  "failures": [
+    {
+      "title": "\"before all\" hook",
+      "fullTitle": "Test Open Position Toolbar As Market Admin \"before all\" hook",
+      "duration": 39873,
+      "error": "Error: Navigation Timeout Exceeded: 30000ms exceeded\n    at Promise.then (node_modules\\puppeteer\\lib\\NavigatorWatcher.js:73:21)\n    at <anonymous>"
+    },
+    {
+      "title": "\"before all\" hook",
+      "fullTitle": "Test Open Position Toolbar As Broker \"before all\" hook",
+      "duration": 40335,
+      "error": "Error: Navigation Timeout Exceeded: 30000ms exceeded\n    at Promise.then (node_modules\\puppeteer\\lib\\NavigatorWatcher.js:73:21)\n    at <anonymous>"
+    },
+    {
+      "title": "\"before all\" hook",
+      "fullTitle": "Test Open Position Toolbar As Clearing Member \"before all\" hook",
+      "duration": 38466,
+      "error": "Error: Navigation Timeout Exceeded: 30000ms exceeded\n    at Promise.then (node_modules\\puppeteer\\lib\\NavigatorWatcher.js:73:21)\n    at <anonymous>"
+    },
+    {
+      "title": "\"before all\" hook",
+      "fullTitle": "Test Open Position Toolbar As Account Group \"before all\" hook",
+      "duration": 39568,
+      "error": "Error: Navigation Timeout Exceeded: 30000ms exceeded\n    at Promise.then (node_modules\\puppeteer\\lib\\NavigatorWatcher.js:73:21)\n    at <anonymous>"
+    },
+    {
+      "title": "\"before all\" hook",
+      "fullTitle": "Test Open Position Toolbar As Trading Account \"before all\" hook",
+      "duration": 39637,
+      "error": "Error: Navigation Timeout Exceeded: 30000ms exceeded\n    at Promise.then (node_modules\\puppeteer\\lib\\NavigatorWatcher.js:73:21)\n    at <anonymous>"
+    }
+  ],
+  "passes": [],
+  "skipped": []
+}
